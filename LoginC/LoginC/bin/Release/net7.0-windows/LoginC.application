@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/weekend14715/LoginApp/main/Published/LoginC.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/weekend14715/UpdateApp/main/Published/LoginC.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>D8PtfcEwE75aBC9anKa2kBvUvL1426r2JOSKxJKInCM=</dsig:DigestValue>
+        <dsig:DigestValue>trCneCl7DpoOkA7oQm0mjW0H/AmPJ4aopT4aODvMVdQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
